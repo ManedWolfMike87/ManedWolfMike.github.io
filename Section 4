@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title> HECKLER Computers </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="mitchell.css">
+    <style>
+        p {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+    <meta charset="utf-8">
+</head>
+     <!--start of Section 4 -->
+     <div class="container p-2 my-3 bg-info text-black-50">
+        <p class="mitchell">
+            Section 4: <span style="color: rgb(33, 11, 116)"> "The Present Day"</span>
+        </p>
+        <p>
+            It has been three years since I finished the Saturn, and just like myself, it has experienced many changes.
+            It has received upgrades such as M.2 SSD's, new hard drives, more storage, and even new software and games.
+            However, in 2020, Saturn suffered significant damage when a power surge destroyed its motherboard and was forced 
+            to operate using a damaged spare. It lost usage after that due to its instability but after a while of planning
+            and finally earning enough cash to do so, I upgraded the CPU to an Intel Core i7-8700K CPU and a new ASUS PRIME
+            B360M-A Motherboard. It is not nearly as fancy as my old MSI board, but it appears to be far more robust and compact 
+            and will handle more than the tasks I need to perform. With these new repairs, the Saturn has become even
+            faster and more powerful than before, and while it is a bit outdated when compared to most PC's that exist in 2021, it is
+            still, an intelligent machine and one day will become even more capable when I buy an upgraded GPU to replace my 1050ti.
+            However, Until then, it shall remain in its current state, and will continue to be my first major accomplishment in my 
+            educational pursuits and dreams.
+        </p>
+        <p>
+            Thank you for visiting my Website, and I hope you enjoyed viewing this little documentary of my machine!
+        </p>
+        <p>
+            <img src="images/IMG_5728.png" alt="Modern Saturn">
+        </p>
+        <p>
+            <img src="images/IMG_5729.png" alt="Inside">
+        </p>
+        <a href="https://www.youtube.com/watch?v=-ijH3cRJ1BY" class="btn-danger btn-dark btn-lg" role="button">Oh,
+            and one more thing...</a>
+    </div>
+    <!--end of Section 4-->
+</html>
+<!--Thanks for visiting!-->

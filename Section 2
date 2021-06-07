@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title> HECKLER Computers </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="mitchell.css">
+    <style>
+        p {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+    <meta charset="utf-8">
+</head>
+     <!--start of Section 2 -->
+    <div class="container p-4 my-5 bg-warning text-justify">
+        <p class="mitchell">
+            <strong>
+                Section 2: <span style="color: rgb(255, 0, 0)"> "Experimentation" </span>
+            </strong>
+        </p>
+        <p>
+            About two years into my work, I began to build more powerful prototypes that would prove very successful
+            in the long run. They helped open the floodgates for my skills to strive towards building machines out of
+            more modern and complex parts. The first system to become my primary computer was the HECKLER Sentinel mk.1,
+            a small half-height tower system that I modified to run as fast as possible. It lasted me a few months
+            before
+            I strived towards a more traditional tower design. This resulted in an experimental model called the HECKLER
+            Sentinel mk.2 being built, which lasted only a few weeks before moving onto two new models. The HECKLER
+            Classic,
+            which was a modern PC crammed into an old 2004 HP Pavillion case And the HECKLER Sentinel mk.2.5, which was
+            a
+            much
+            taller tower system. The last version of the Sentinel series was a modified version of the 2.5, which I
+            named
+            the
+            HECKLER Sentinel mk.3. The mk.3 was the very first of my prototypes to feature a quad-core CPU, and would be
+            the
+            final
+            prototype I would build.
+        </p>
+        <p>
+            <strong>
+                Prototype 5: "The HECKLER Sentinel mk.1"
+            </strong>
+        </p>
+        <p>
+            <img src="images/IMG_3833.png" alt="Pic5">
+        </p>
+        <p>
+            <strong>
+                Prototype 6: "The HECKLER Sentinel mk.2"
+            </strong>
+        </p>
+        <p>
+            <img src="images/IMG_4013 .png" alt="Pic6">
+        </p>
+        <p>
+            <strong>
+                Prototype 7: "The HECKLER Classic"
+            </strong>
+        </p>
+        <p>
+            <img src="images/IMG_0358.png" alt="Pic7">
+        </p>
+        <p>
+            <strong>
+                Prototype 8: "The HECKLER Sentinel mk.2.5"
+            </strong>
+        </p>
+        <p>
+            <img src="images/IMG_5756.png" alt="Pic8">
+        </p>
+        <p>
+            <strong>
+                Prototype 9: "The HECKLER Sentinel mk.3"
+            </strong>
+        </p>
+        <p>
+            <img src="images/IMG_3926.png" alt="Pic9">
+        </p>
+        <p>
+            The Sentinel mk.3 would mark the end of my prototype era and then pave the way
+            for my future creation. This model utilized somewhat more modern parts than my
+            previous models and would serve as the basis for my design moving forward.
+            Having a powerful CPU, large stylish but modern case, multiple media components,
+            a dedicated graphics card, and a large amount of RAM and storage.
+        </p>
+    </div>
+    <!--end of Section 2-->
+</html>
+<!--Thanks for visiting!-->
