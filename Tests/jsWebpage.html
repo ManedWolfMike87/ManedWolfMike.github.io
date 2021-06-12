@@ -16,6 +16,7 @@
     <script>
         function abbie1() {
             var price1 = 5;
+            /* Mark's Comment 6/12: Be sure to put a semicolon after each line */
             var price2 = 7
             var totalPrices = price1 + price2
 
@@ -32,6 +33,7 @@
         function abbie2() {
             if (i < 10) {
                 var text = "";
+                /* This for loop won't work because you never declare what newtotalPrices is */
                 var i = newtotalPrices;
                 while (i < 10) {
                     text += "<br>The totalPrices is " + i;
@@ -49,6 +51,7 @@
             "PawPaw",
             "Banana"
         ];
+        /* Mark's Comment 6/12: This next line won't work because your script isn't at the bottom of the page. The browser tries to run it but can't find the paragraph to update since it hasn't read down the page that far yet. */
         document.getElementById("thirdA").innerHTML = fruits;
 
     </script>
@@ -85,7 +88,7 @@
     var item3 = debt. ;
     var total = item1 + item2 +item3;
 
-    <!---End of Mitchells's Section-->
+    <!---End of Mitchell's Section-->
 </body>
 
 </html>
